@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 
 function Calendar (props) {
     return (
-      <div style={{color: 'purple'}}>{props.num}</div>
+      <div>{props.num}</div>
     )
 }
 
